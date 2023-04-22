@@ -1,0 +1,14 @@
+.brand{
+    font-family: cursive;
+    font-weight: bold;
+    font-size:x-large;
+}
+.list{
+    margin-right: auto;
+    margin-bottom: 2px;
+}
+.btn{
+    background: white !important;
+    color: black !important;
+    margin-left: 20px;
+}
